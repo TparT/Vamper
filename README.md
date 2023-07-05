@@ -15,8 +15,9 @@
 - Enjoy Vamper the timestamper! catKISS
 
 ### Special thanks to:
-The TwitchLib C# Library Devs for developing [TwitchLib](https://github.com/TwitchLib/TwitchLib) to handle with the Twitch API.
-[JoshClose] for developing [CsvHelper](https://github.com/JoshClose/CsvHelper) to handle with CSV files.
+The [@TwitchLib](https://github.com/TwitchLib) C# Library Devs for developing [TwitchLib](https://github.com/TwitchLib/TwitchLib) to handle with the Twitch API.
+
+[@JoshClose](https://github.com/JoshClose) for developing [CsvHelper](https://github.com/JoshClose/CsvHelper) to handle with CSV files.
 
 #### Signed
-~T-par-T, Creator of Vamper.
+~ [@T-par-T](https://github.com/TparT), Creator of [Vamper](https://github.com/TparT/Vamper).
