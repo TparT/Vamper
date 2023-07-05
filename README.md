@@ -1,7 +1,6 @@
 # Vamper
 
-
-**_IN ORDER FOR THE PROGRAM TO WORK MAKE SURE YOU:_**
+### **_IN ORDER FOR VAMPER TO WORK MAKE SURE YOU:_**
 
 - Make sure to add client id and access token in the config.json file otherwise it wont work!
 
@@ -13,6 +12,11 @@
 
 - Put the correct channel id in the config.json file of the channel you want to monitor!
 
-- Enjoy the program! catKISS
+- Enjoy Vamper the timestamper! catKISS
 
+### Special thanks to:
+The TwitchLib C# Library Devs for developing [TwitchLib](https://github.com/TwitchLib/TwitchLib) to handle with the Twitch API.
+[JoshClose] for developing [CsvHelper](https://github.com/JoshClose/CsvHelper) to handle with CSV files.
+
+#### Signed
 ~T-par-T, Creator of Vamper.
