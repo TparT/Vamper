@@ -1,5 +1,8 @@
 # Vamper
 
+![VamperLogo](https://github.com/TparT/Vamper/assets/66745515/e798687f-c67c-4dd5-9410-ecff203374c6)
+
+
 ## The problem
 
 The challange was brought to me by a friend who manages a YouTube VODs channel for Philza (Minecraft Twitch Streamer). They asked me if its possible to detect when Philza changes the stream title during stream, like when he switches to another gamemode in the same game, so it will be easier to find when he switched his gamemode later in the VOD.
