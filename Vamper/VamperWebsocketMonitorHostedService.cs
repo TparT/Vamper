@@ -24,7 +24,7 @@ namespace Vamper
         public string TwitchClientId { get; set; }
         public bool DoBackups { get; set; }
     }
-
+    
     internal class VamperWebsocketMonitorHostedService : IHostedService
     {
         private readonly string WorkPath;
